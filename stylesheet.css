@@ -1,0 +1,73 @@
+/*This is a css comment*/
+
+p {
+	color: red;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+/*this is a css comment*/
+
+Div p {
+	Color: blue;
+	Font-size: 10px;	
+}
+
+.class_test {
+	color: yellow;
+	font-size: 30px;
+}
+
+#id_test {
+	color: yellow;
+	font-size: 30px;
+}
+
+.hover_test:hover {
+	font-size: 50px;
+	text-decoration: none;
+}
+
+a:visited {
+	color: pink;
+}
+
+a:hover{
+	color: red;
+	background-color: black;
+}
+
+div {
+	height:50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+	#one {
+		background-color: #ff0000;
+		margin-bottom: -50px;
+		height: 15px;
+		width: 25px;
+		position: absolute;
+
+	}
+
+	#two {
+		background-color: #0000ff;
+		margin-top: 150px;
+		float: left;
+		position: absolute;
+	}
+
+	#three {
+		background-color: #ffd700;
+		
+	}
+
+	#four {background-color: #308014;
+			margin-right: 0px;
+			position: fixed;
+
+	}
